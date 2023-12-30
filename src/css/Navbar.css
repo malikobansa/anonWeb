@@ -1,0 +1,92 @@
+nav{
+    margin-left: -100px;
+    display: flex;
+    flex-direction: row;
+}
+
+nav ul{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+}
+
+.friends:hover{
+    background-color: red;
+    width: auto;
+    height: auto;
+    padding:10px 5px;
+    vertical-align: baseline;
+    color: #fff;
+}
+
+.friend:hover{
+    vertical-align: baseline;
+    color: #fff;
+}
+
+.notif:hover{
+    background-color: skyblue;
+    width: auto;
+    height: auto;
+    padding:10px 5px;
+    vertical-align: baseline;
+    color: #fff;
+}
+
+.notifs:hover{
+    vertical-align: baseline;
+    color: #fff;
+}
+
+.message:hover{
+    background-color: blue;
+    width: auto;
+    height: auto;
+    padding:10px 5px;
+    vertical-align: baseline;
+    color: #fff;
+}
+
+.mess:hover{
+    vertical-align: baseline;
+    color: #fff;
+}
+
+.chat:hover{
+    background-color: skyblue;
+    width: auto;
+    height: auto;
+    padding:10px 5px;
+    vertical-align: baseline;
+    color: #fff;
+}
+
+.chats:hover{
+    vertical-align: baseline;
+    color: #fff;
+}
+
+.expo:hover{
+    background-color: blue;
+    width: auto;
+    height: auto;
+    padding:10px 5px;
+    vertical-align: baseline;
+    color: #fff;
+}
+
+.expos:hover{
+    vertical-align: baseline;
+    color: #fff;
+}
+
+.list{
+    display: flex;
+    flex-direction: row;
+    vertical-align: baseline;
+}
+
+.list li{
+    margin-top: 5px;
+    margin-left: 20px;
+}

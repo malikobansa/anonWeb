@@ -1,0 +1,22 @@
+.div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.display{
+    margin-right: 800px;
+}
+
+.fore{
+    margin-left: 100px;
+}
+
+.fores{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}

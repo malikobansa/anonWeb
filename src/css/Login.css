@@ -1,0 +1,10 @@
+.lomge{
+    width: 500px;
+    height: 500px;
+}
+
+.forms form{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
